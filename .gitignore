@@ -72,3 +72,13 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/_ProvidedAssets/Downtown_West/Textures/Asphalt/T_asphalt_damaged_normal.uasset
+Content/_ProvidedAssets/Downtown_West/Textures/Building_Cafe_A/Bricks_A/T_Bricks_a_normal.uasset
+Content/_ProvidedAssets/Downtown_West/Textures/Building_Cafe_A/Bricks_B/T_bricks_b_v2_normal.uasset
+Content/_ProvidedAssets/Downtown_West/Textures/Building_Cafe_A/Plaster_A/T_plaster_a_normal.uasset
+Content/_ProvidedAssets/Downtown_West/Textures/Building_F/Bricks_Chunky/T_chunky_brick_normal.uasset
+Content/_ProvidedAssets/Downtown_West/Textures/Building_F/Stucco/T_stucco_normal.uasset
+Content/_ProvidedAssets/Downtown_West/Textures/Decals/T_grunge_decal_a_albedo.uasset
+Content/_ProvidedAssets/Downtown_West/Textures/Decals/T_grunge_decal_a_normal.uasset
+Content/_ProvidedAssets/Downtown_West/Textures/Ground_Landscape/T_sand_normal.uasset
+Content/_ProvidedAssets/Downtown_West/Textures/Asphalt/T_asphalt_base_normal.uasset
